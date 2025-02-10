@@ -1,12 +1,12 @@
-# Teste Prático - Iniflex
+# 🧑‍💻 Teste Prático - Iniflex
 
 Este projeto foi desenvolvido como parte do teste técnico Iniflex. O objetivo é desenvolver um projeto Java que segue os requisitos fornecidos.
 
 ---
 
-## Requisitos do Projeto
+## 📋 Requisitos do Projeto
 
-### 1. Classes
+### 🏷️ Classes
 
 1. **Classe `Pessoa`**:
    - Atributos: `nome` (String) e `dataNascimento` (LocalDate).
@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte do teste técnico Iniflex. O objetivo �
 
 ---
 
-### 2. Funcionalidades Implementadas
+## 🛠️ Funcionalidades Implementadas
 
 A classe `Principal` executa as seguintes ações:
 
@@ -61,7 +61,7 @@ A classe `Principal` executa as seguintes ações:
 
 ---
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
 
