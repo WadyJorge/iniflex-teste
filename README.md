@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do teste técnico Iniflex. O objetivo �
 
 ## 📋 Requisitos do Projeto
 
-### 🏷️ Classes
+### Classes
 
 1. **Classe `Pessoa`**:
    - Atributos: `nome` (String) e `dataNascimento` (LocalDate).
